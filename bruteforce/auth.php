@@ -2,7 +2,7 @@
   $username = $_POST['nick'];
   $pass = $_POST['pass'];
 
-  if ($pass == 'Bartek25')
+  if ($pass == 'xyz')
   {
     header("Location: http://localhost/profile.php");
   }
